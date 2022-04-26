@@ -1,0 +1,104 @@
+
+*{
+    padding: 0;
+    margin: 0;
+}
+.section_1{
+display: flex;
+box-shadow: 1px 1px 1px #2c2929;
+
+
+
+
+}
+#name{
+    margin-right: 10%;
+    
+}
+body{
+    margin: 10px 20px 0px 50px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+background-color: black;
+}
+.section_2{
+    margin-top: 100px;
+    width: 100%;
+}
+#hi{
+    font-size: 25px; 
+    
+    
+}
+#name_1{
+    margin-top: 20px;
+    font-size: 25px;
+    
+}
+#career{
+    margin-top: 30px;
+    font-size: 20px;
+}
+#hire{
+    margin-top: 50px;
+    font-size: 18px;
+    background-color: rgb(197, 74, 30);
+    width: 35%;
+    padding: 5px;
+    align-items: center;
+    text-align: center;
+    border-radius: 8px;
+    color: white;
+    cursor: pointer;
+}
+
+
+
+.flex{
+    display: flex;
+    flex-direction: row;
+   
+}
+img{
+    margin: 10% 30% 10% 0%;
+}
+.field{
+    margin-top: 10%;
+    
+}
+#name_2{
+    color: white;
+font-weight: bold;
+}
+#name_3{
+    color: orangered;
+}
+h1{
+color: white;
+font-weight: bold;
+}
+h2{
+    color: white;
+    font-weight: bold;
+}
+h3{
+    color: white;
+    font-weight: bold;
+}
+h4{
+    color: white;
+    font-weight: bold;
+}
+h5{
+    color: white;
+    font-weight: bold;
+}
+#name_4{
+    margin-top: 40px;
+    color: orangered;
+    text-decoration: underline;
+    cursor: pointer;
+}
+
+#chat{
+    color: white;
+}
